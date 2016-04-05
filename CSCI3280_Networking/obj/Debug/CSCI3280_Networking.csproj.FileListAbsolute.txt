@@ -1,0 +1,9 @@
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\bin\Debug\CSCI3280_Networking.exe.config
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\bin\Debug\CSCI3280_Networking.exe
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\bin\Debug\CSCI3280_Networking.pdb
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\obj\Debug\CSCI3280_Networking.csprojResolveAssemblyReference.cache
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\obj\Debug\CSCI3280_Networking.Form1.resources
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\obj\Debug\CSCI3280_Networking.Properties.Resources.resources
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\obj\Debug\CSCI3280_Networking.csproj.GenerateResource.Cache
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\obj\Debug\CSCI3280_Networking.exe
+c:\users\elvis\documents\visual studio 2015\Projects\CSCI3280_Networking\CSCI3280_Networking\obj\Debug\CSCI3280_Networking.pdb
